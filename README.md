@@ -32,8 +32,8 @@ monitor important HR metrics through interactive dashboards.
 - Power Query
 - DAX
 - Microsoft Excel
-- SQL
-- Python / Pandas
+- Git / GitHub
+- Git LFS
 
 ---
 
